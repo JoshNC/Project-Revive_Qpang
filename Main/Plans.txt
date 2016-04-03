@@ -1,6 +1,6 @@
-========================
+========================>
 	Plans
-========================
+========================>
 
 Each player has it's very own world where he/she can wander around. (PRIORITY: V)
 	* Castle
@@ -9,9 +9,9 @@ Each player has it's very own world where he/she can wander around. (PRIORITY: V
 		- Able to host it so others can join your "castle"
 		
 
-========================
+========================>
 	What to be done
-========================
+========================>
 
 * Player shooting (PRIORITY: I)
 	Includes:
@@ -36,9 +36,9 @@ Each player has it's very own world where he/she can wander around. (PRIORITY: V
 	- When a player shoots, smoke comes out of the barrel for example.
 
 
-========================
+========================>
 	Who does what
-========================
+========================>
 
 Josh
   Playermovement (PRIORITY: I) (Progress: 0%)
@@ -49,3 +49,4 @@ Josh
 
 Kai
   :D
+:D
