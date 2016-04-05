@@ -1,36 +1,29 @@
 ========================>
 	Plans
 ========================>
-
 Each player has it's very own world where he/she can wander around. (PRIORITY: V)
 	* Castle
 		- Yard with practice lane
 		- Rooms which you can customize on your own
 		- Able to host it so others can join your "castle"
+
+* Achievements
+* extra upgrade cards
+* Area to build your own map (With standard presets)
 		
 
 ========================>
 	What to be done
 ========================>
-
 * Player shooting (PRIORITY: I)
 	Includes:
 	- Health system
 	- Damage system
 	
-* Terrain (PRIORITY: III)
-	- Map
-	- Buildings
-	
 * Models (PRIORITY: II)
 	- Guns
 	- Player
 	- Props
-	
-* UI (PRIORITY: II.V)
-	- Health bar
-	- Stamina bar
-	- Player menu
 	
 * Particle System (PRIORITY: IV)
 	- When a player shoots, smoke comes out of the barrel for example.
@@ -39,14 +32,22 @@ Each player has it's very own world where he/she can wander around. (PRIORITY: V
 ========================>
 	Who does what
 ========================>
-
 Josh
-  Playermovement (PRIORITY: I) (Progress: 0%)
+  Playermovement (PRIORITY: I) (Progress: 1%)
 	Includes:
 	- Movement (WASD)
 	- Camera rotation with mouse
-	
 
+  Login GUI (PRIORITY: I.V) (Progress: 50%)
+
+-----------------------
 Kai
-  :D
-:D
+  HUD (PRIORITY: II.V) (Progress: 0%)
+	Includes:
+	- Health bar
+	- Stamina bar
+	- In game UI (Settings etc)
+	
+  Terrain (PRIORITY: III) (Progress: 0%)
+	- Map
+	- Buildings
